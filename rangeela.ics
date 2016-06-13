@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+BEGIN:VEVENT
+DTSTART:20160618T160000
+DTEND:20160618T190000
+LOCATION:1235 Overlook Dr, Lake Oswego, OR 97034
+DESCRIPTION:Please make sure to bring your ticket/email confirmation with you.
+SUMMARY:Rangeela - Dance for Chennai
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
